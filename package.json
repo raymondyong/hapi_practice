@@ -1,0 +1,21 @@
+{
+  "name": "hapipractice",
+  "version": "0.0.0",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "hapi_practice"
+  },
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "hapi": "^8.6.1",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node hapi.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}

@@ -10,6 +10,7 @@
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
     "async": "~0.2.8",
+    "good": "^6.1.4",
     "hapi": "^8.6.1",
     "socket.io": "~0.9.14"
   },
